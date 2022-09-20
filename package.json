@@ -1,5 +1,5 @@
   {
-  "name": "NeoMD",
+  "name": "nusa][bot©",
   "version": "1.2.3",
   "description": "Created By Lexxy Official",
   "main": "cmd.js",
@@ -18,7 +18,7 @@
     "bot-md",
     "multi-device"
 ],
-  "author": "Lexxy Official",
+  "author": "nusa][bot©",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.0.1",
